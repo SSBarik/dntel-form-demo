@@ -123,12 +123,6 @@ const App: React.FC = () => {
       <div>
         <FormComponent />
       </div>
-
-      <pre className="bg-gray-100 p-4 mt-4 rounded">
-        {Object.keys(changes).length === 0
-          ? "// No changes made yet"
-          : JSON.stringify(changes, null, 2)}
-      </pre>
     </>
   );
 };
