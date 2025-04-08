@@ -105,10 +105,10 @@ const App: React.FC = () => {
             className={`px-4 py-1 text-xs rounded shadow-sm text-white ${
               Object.keys(changes).length === 0
                 ? "bg-red-300 cursor-not-allowed"
-                : "bg-red-600 hover:bg-red-700"
+                : "bg-red-600 hover:bg-red-00"
             }`}
           >
-            Reset
+            Reset Form
           </button>
           <button
             onClick={clearLS}
