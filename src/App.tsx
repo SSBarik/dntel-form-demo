@@ -27,13 +27,6 @@ const App: React.FC = () => {
     setEditMode(false);
   };
 
-  const handleScrollToFirstChangedSection = () => {
-    const firstChangedSectionId = Object.keys(changes)[0];
-    if (firstChangedSectionId) {
-      scrollToSection(firstChangedSectionId);
-    }
-  };
-
   useEffect(() => {
     const stored = localStorage.getItem("dntel-editMode");
     if (stored === "true") setEditMode(true);
@@ -53,9 +46,15 @@ const App: React.FC = () => {
 
         {/* Right: Buttons */}
         <div className="flex flex-wrap items-center gap-2">
+          <span className="px-3 py-1 text-xs bg-gray-100 text-gray-700 rounded-full border border-gray-300">
+            Active:{" "}
+            <span className="font-mono text-gray-900">
+              {activeSection || "None"}
+            </span>
+          </span>
           {!editMode ? (
             <button
-              className="px-4 py-1 border rounded text-sm hover:bg-gray-100 transition"
+              className="px-4 py-1 border rounded text-xs hover:bg-gray-100 transition shadow-sm"
               onClick={() => setEditMode(true)}
             >
               Edit
@@ -63,7 +62,7 @@ const App: React.FC = () => {
           ) : (
             <>
               <button
-                className={`px-4 py-1 text-sm text-white rounded transition ${
+                className={`px-4 py-1 text-xs text-white rounded shadow-sm transition ${
                   Object.keys(changes).length === 0
                     ? "bg-green-600 opacity-50 cursor-not-allowed"
                     : "bg-green-600 hover:bg-green-700"
@@ -74,7 +73,7 @@ const App: React.FC = () => {
                 Save
               </button>
               <button
-                className="px-4 py-1 bg-gray-500 text-white text-sm rounded hover:bg-gray-600 transition"
+                className="px-4 py-1 bg-gray-500 text-white shadow-sm text-xs rounded hover:bg-gray-600 transition"
                 onClick={handleCancel}
               >
                 Cancel
@@ -84,26 +83,26 @@ const App: React.FC = () => {
 
           <button
             onClick={expandAll}
-            className="px-4 py-1 border rounded text-sm hover:bg-gray-100 transition"
+            className="px-4 py-1 border rounded text-xs shadow-sm hover:bg-gray-100 transition"
           >
             Expand All
           </button>
           <button
             onClick={collapseAll}
-            className="px-4 py-1 border rounded text-sm hover:bg-gray-100 transition"
+            className="px-4 py-1 border rounded text-xs shadow-sm hover:bg-gray-100 transition"
           >
             Collapse All
           </button>
           <button
             onClick={() => scrollToSection("InsuranceInformation")}
-            className="px-4 py-1 border rounded text-sm hover:bg-gray-100 transition"
+            className="px-4 py-1 border rounded text-xs shadow-sm hover:bg-gray-100 transition"
           >
             Scroll to Section 3
           </button>
           <button
             onClick={reset}
             disabled={Object.keys(changes).length === 0}
-            className={`px-4 py-1 text-sm rounded text-white ${
+            className={`px-4 py-1 text-xs rounded shadow-sm text-white ${
               Object.keys(changes).length === 0
                 ? "bg-red-300 cursor-not-allowed"
                 : "bg-red-600 hover:bg-red-700"
@@ -113,7 +112,7 @@ const App: React.FC = () => {
           </button>
           <button
             onClick={clearLS}
-            className="px-4 py-1 bg-yellow-500 text-white text-sm rounded hover:bg-yellow-600 transition"
+            className="px-4 py-1 bg-yellow-500 shadow-sm text-white text-xs rounded hover:bg-yellow-600 transition"
           >
             Clear LS
           </button>
