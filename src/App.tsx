@@ -119,7 +119,7 @@ const App: React.FC = () => {
         </div>
       </div>
 
-      <div>
+      <div className="p-4">
         <FormComponent />
       </div>
     </>

@@ -320,7 +320,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "PlanType": {
           "value": "",
@@ -336,7 +336,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "GroupName": {
           "value": "",
@@ -352,7 +352,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "GroupNumber": {
           "value": "",
@@ -368,7 +368,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "EffectiveDate": {
           "value": "",
@@ -384,7 +384,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "PlanStartDate": {
           "value": "",
@@ -400,7 +400,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "PlanYear": {
           "value": "",
@@ -417,7 +417,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "FiscalPlanMonth": {
           "value": "",
@@ -447,7 +447,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "InOutOfNetwork": {
           "value": "",
@@ -464,7 +464,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "InsuranceCompanyPhoneNumber": {
           "value": "+1-800-244-6224",
@@ -487,7 +487,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "InsuranceClaimMailingAddress": {
           "value": "PO Box 182223, Chattanooga, TN, 37422, USA",
@@ -510,7 +510,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "PayorID": {
           "value": "jjnjjh",
@@ -535,7 +535,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         }
       },
       "stats": {
@@ -563,7 +563,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Preventive": {
           "value": "jhhjjh",
@@ -588,7 +588,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Basic": {
           "value": "jhjh",
@@ -613,7 +613,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Major": {
           "value": "jjhjh",
@@ -638,7 +638,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Endodontics": {
           "value": "",
@@ -654,7 +654,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Periodontics": {
           "value": "",
@@ -670,7 +670,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "OralSurgery": {
           "value": "",
@@ -686,7 +686,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Orthodontics": {
           "value": "",
@@ -702,7 +702,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         }
       },
       "stats": {
@@ -730,7 +730,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "AnnualIndividualMaximumUsed": {
           "value": "",
@@ -746,7 +746,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "IndividualAnnualDeductible": {
           "value": "",
@@ -762,7 +762,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "IndividualAnnualDeductibleUsed": {
           "value": "",
@@ -778,7 +778,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "FamilyAnnualDeductible": {
           "value": "",
@@ -794,7 +794,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "FamilyAnnualDeductibleUsed": {
           "value": "",
@@ -810,7 +810,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Annual individual deductible applies to preventative or diagnostic?": {
           "value": "",
@@ -826,7 +826,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         }
       },
       "stats": {
@@ -854,7 +854,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "What waiting periods exist?": {
           "value": "",
@@ -870,7 +870,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Can Pano and Bitewings be done the same day?": {
           "value": "",
@@ -886,7 +886,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "Crowns paid on prep or seat date?": {
           "value": "",
@@ -902,7 +902,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         }
       },
       "stats": {
@@ -930,7 +930,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "OrthoLifetimeMaximum": {
           "value": "",
@@ -946,7 +946,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "OrthoLifetimeMaximumUsed": {
           "value": "",
@@ -962,7 +962,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "OrthoIndividualDeductibleAmount": {
           "value": "",
@@ -978,7 +978,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         },
         "OrthoIndividualDeductibleAmountUsed": {
           "value": "",
@@ -994,7 +994,7 @@
           "placeholder": "",
           "disabled": false,
           "tooltip": "",
-          "colSpan": "2"
+          "colSpan": "1"
         }
       },
       "stats": {
@@ -1024,7 +1024,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1042,7 +1042,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Emergency Exam",
@@ -1058,7 +1058,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1081,7 +1081,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             },
             {
@@ -1099,7 +1099,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "New Patient Exam",
@@ -1115,7 +1115,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1138,7 +1138,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             },
             {
@@ -1156,7 +1156,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Regular Checkup",
@@ -1172,7 +1172,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1195,7 +1195,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -1215,7 +1215,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1233,7 +1233,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Full Mouth X-rays",
@@ -1249,7 +1249,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1272,7 +1272,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -1292,7 +1292,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1310,7 +1310,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Panoramic X-ray",
@@ -1326,7 +1326,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1349,7 +1349,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -1369,7 +1369,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1387,7 +1387,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Adult Cleaning",
@@ -1403,7 +1403,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1426,7 +1426,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             },
             {
@@ -1444,7 +1444,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Child Cleaning",
@@ -1460,7 +1460,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1483,7 +1483,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -1503,7 +1503,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1521,7 +1521,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Perio Maintenance",
@@ -1537,7 +1537,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1560,7 +1560,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -1580,7 +1580,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1598,7 +1598,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Deep Cleaning Four+ Teeth",
@@ -1614,7 +1614,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1637,7 +1637,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             },
             {
@@ -1655,7 +1655,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Deep Cleaning One-Three Teeth",
@@ -1671,7 +1671,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1694,7 +1694,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -1714,7 +1714,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1732,7 +1732,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Four Bitewing X-rays",
@@ -1748,7 +1748,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1771,7 +1771,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             },
             {
@@ -1789,7 +1789,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Single Bitewing X-ray",
@@ -1805,7 +1805,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1828,7 +1828,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -1848,7 +1848,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1866,7 +1866,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Porcelain Crown",
@@ -1882,7 +1882,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1905,7 +1905,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -1925,7 +1925,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -1943,7 +1943,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "One Surface Back Composite",
@@ -1959,7 +1959,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -1982,7 +1982,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             },
             {
@@ -2000,7 +2000,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "One Surface Front Composite",
@@ -2016,7 +2016,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -2039,7 +2039,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -2059,7 +2059,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -2077,7 +2077,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Surgical Implant",
@@ -2093,7 +2093,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -2116,7 +2116,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -2136,7 +2136,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -2154,7 +2154,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Fluoride Varnish",
@@ -2170,7 +2170,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -2193,7 +2193,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -2213,7 +2213,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -2231,7 +2231,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Occlusal Guard - Hard",
@@ -2247,7 +2247,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -2270,7 +2270,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -2290,7 +2290,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "Services": [
             {
@@ -2308,7 +2308,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "FriendlyName": {
                 "value": "Sealant",
@@ -2324,7 +2324,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               },
               "AllServiceDates": {
                 "value": []
@@ -2347,7 +2347,7 @@
                 "placeholder": "",
                 "disabled": false,
                 "tooltip": "",
-                "colSpan": "2"
+                "colSpan": "1"
               }
             }
           ]
@@ -2379,7 +2379,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2395,7 +2395,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Regular Checkup",
           "friendlyName": "Regular Checkup",
@@ -2420,7 +2420,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2436,7 +2436,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Emergency Exam",
           "friendlyName": "Emergency Exam",
@@ -2455,7 +2455,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             },
             "Is the frequency shared with D0120?": {
               "value": false,
@@ -2471,7 +2471,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -2494,7 +2494,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2510,7 +2510,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "New Patient Exam",
           "friendlyName": "New Patient Exam",
@@ -2535,7 +2535,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2551,7 +2551,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Full Mouth X-rays",
           "friendlyName": "Full Mouth X-rays",
@@ -2570,7 +2570,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -2593,7 +2593,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2609,7 +2609,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "First X-ray",
           "friendlyName": "First X-ray",
@@ -2634,7 +2634,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2650,7 +2650,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Four Bitewing X-rays",
           "friendlyName": "Four Bitewing X-rays",
@@ -2675,7 +2675,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2691,7 +2691,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Panoramic X-ray",
           "friendlyName": "Panoramic X-ray",
@@ -2716,7 +2716,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2732,7 +2732,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Oral/Facial Images",
           "friendlyName": "Oral/Facial Images",
@@ -2757,7 +2757,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Cone Beam Image",
           "friendlyName": "Cone Beam Image",
@@ -2782,7 +2782,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2798,7 +2798,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Cancer Screening",
           "friendlyName": "Cancer Screening",
@@ -2823,7 +2823,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2839,7 +2839,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Pulp Vitality Tests",
           "friendlyName": "Pulp Vitality Tests",
@@ -2864,7 +2864,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2880,7 +2880,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Adult Cleaning",
           "friendlyName": "Adult Cleaning",
@@ -2905,7 +2905,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2921,7 +2921,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Child Cleaning",
           "friendlyName": "Child Cleaning",
@@ -2946,7 +2946,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -2962,7 +2962,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Fluoride Varnish",
           "friendlyName": "Fluoride Varnish",
@@ -2981,7 +2981,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -3004,7 +3004,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3020,7 +3020,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Sealant",
           "friendlyName": "Sealant",
@@ -3039,7 +3039,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             },
             "Age Limit for D1351?": {
               "value": "",
@@ -3055,7 +3055,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -3078,7 +3078,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3094,7 +3094,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "One Surface Front Composite",
           "friendlyName": "One Surface Front Composite",
@@ -3119,7 +3119,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3135,7 +3135,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "One Surface Back Composite",
           "friendlyName": "One Surface Back Composite",
@@ -3154,7 +3154,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -3177,7 +3177,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3193,7 +3193,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "One Surface Porcelain Inlay",
           "friendlyName": "One Surface Porcelain Inlay",
@@ -3218,7 +3218,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3234,7 +3234,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Two Surface Porcelain Onlay",
           "friendlyName": "Two Surface Porcelain Onlay",
@@ -3259,7 +3259,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3275,7 +3275,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Porcelain Crown",
           "friendlyName": "Porcelain Crown",
@@ -3294,7 +3294,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -3317,7 +3317,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3333,7 +3333,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Recement Crown",
           "friendlyName": "Recement Crown",
@@ -3358,7 +3358,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3374,7 +3374,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Core Buildup",
           "friendlyName": "Core Buildup",
@@ -3399,7 +3399,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3415,7 +3415,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Prefab Post and Core",
           "friendlyName": "Prefab Post and Core",
@@ -3440,7 +3440,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3456,7 +3456,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Resin Infiltration",
           "friendlyName": "Resin Infiltration",
@@ -3481,7 +3481,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3497,7 +3497,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Unspecified Restoration",
           "friendlyName": "Unspecified Restoration",
@@ -3522,7 +3522,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Pulp Cap - Indirect",
           "friendlyName": "Pulp Cap - Indirect",
@@ -3547,7 +3547,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3563,7 +3563,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Front Tooth Root Canal",
           "friendlyName": "Front Tooth Root Canal",
@@ -3588,7 +3588,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3604,7 +3604,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Premolar Root Canal",
           "friendlyName": "Premolar Root Canal",
@@ -3629,7 +3629,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3645,7 +3645,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Molar Root Canal",
           "friendlyName": "Molar Root Canal",
@@ -3664,7 +3664,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -3687,7 +3687,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Guided Tissue Regeneration",
           "friendlyName": "Guided Tissue Regeneration",
@@ -3712,7 +3712,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3728,7 +3728,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Deep Cleaning Four+ Teeth",
           "friendlyName": "Deep Cleaning Four+ Teeth",
@@ -3747,7 +3747,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -3770,7 +3770,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3786,7 +3786,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Deep Cleaning One-Three Teeth",
           "friendlyName": "Deep Cleaning One-Three Teeth",
@@ -3811,7 +3811,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3827,7 +3827,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Scaling with Inflammation",
           "friendlyName": "Scaling with Inflammation",
@@ -3846,7 +3846,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             },
             "Is D4346 considered preventative?": {
               "value": "",
@@ -3862,7 +3862,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -3885,7 +3885,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3901,7 +3901,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Full Mouth Debridement",
           "friendlyName": "Full Mouth Debridement",
@@ -3926,7 +3926,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3942,7 +3942,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Localized Antimicrobial",
           "friendlyName": "Localized Antimicrobial",
@@ -3967,7 +3967,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -3983,7 +3983,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Perio Maintenance",
           "friendlyName": "Perio Maintenance",
@@ -4002,7 +4002,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             },
             "How many days between SRP and D4910?": {
               "value": "",
@@ -4018,7 +4018,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             },
             "Is the frequency shared with D1110?": {
               "value": false,
@@ -4034,7 +4034,7 @@
               "placeholder": "",
               "disabled": false,
               "tooltip": "",
-              "colSpan": "2"
+              "colSpan": "1"
             }
           },
           "stats": {
@@ -4057,7 +4057,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Gingival Irrigation",
           "friendlyName": "Gingival Irrigation",
@@ -4082,7 +4082,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4098,7 +4098,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Complete Upper Denture",
           "friendlyName": "Complete Upper Denture",
@@ -4123,7 +4123,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4139,7 +4139,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Upper Partial Denture - Resin",
           "friendlyName": "Upper Partial Denture - Resin",
@@ -4164,7 +4164,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4180,7 +4180,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Surgical Implant",
           "friendlyName": "Surgical Implant",
@@ -4205,7 +4205,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4221,7 +4221,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Prefabricated Abutment",
           "friendlyName": "Prefabricated Abutment",
@@ -4246,7 +4246,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4262,7 +4262,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Custom Abutment",
           "friendlyName": "Custom Abutment",
@@ -4287,7 +4287,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4303,7 +4303,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Implant Crown - Porcelain/Ceramic",
           "friendlyName": "Implant Crown - Porcelain/Ceramic",
@@ -4328,7 +4328,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4344,7 +4344,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Implant Crown - Porcelain",
           "friendlyName": "Implant Crown - Porcelain",
@@ -4369,7 +4369,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4385,7 +4385,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Implant Crown - Porcelain/Metal",
           "friendlyName": "Implant Crown - Porcelain/Metal",
@@ -4410,7 +4410,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Implant Index",
           "friendlyName": "Implant Index",
@@ -4435,7 +4435,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4451,7 +4451,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Pontic - Porcelain/Ceramic",
           "friendlyName": "Pontic - Porcelain/Ceramic",
@@ -4476,7 +4476,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4492,7 +4492,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Crown - Porcelain/Ceramic",
           "friendlyName": "Crown - Porcelain/Ceramic",
@@ -4517,7 +4517,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4533,7 +4533,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Surgical Extraction",
           "friendlyName": "Surgical Extraction",
@@ -4558,7 +4558,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4574,7 +4574,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Bone Replacement Graft",
           "friendlyName": "Bone Replacement Graft",
@@ -4599,7 +4599,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Application of Desensitizing",
           "friendlyName": "Application of Desensitizing",
@@ -4624,7 +4624,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4640,7 +4640,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Desensitizing Resin",
           "friendlyName": "Desensitizing Resin",
@@ -4665,7 +4665,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "coveragePercentage": {
             "value": "",
@@ -4681,7 +4681,7 @@
             "placeholder": "",
             "disabled": false,
             "tooltip": "",
-            "colSpan": "2"
+            "colSpan": "1"
           },
           "name": "Occlusal Guard - Hard",
           "friendlyName": "Occlusal Guard - Hard",

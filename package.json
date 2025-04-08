@@ -13,7 +13,7 @@
     "@tailwindcss/vite": "^4.1.3",
     "@vercel/analytics": "^1.5.0",
     "react": "^19.0.0",
-    "react-dntel-form": "^1.0.1",
+    "react-dntel-form": "^1.0.5",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
