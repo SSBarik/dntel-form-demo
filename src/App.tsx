@@ -45,90 +45,78 @@ const App: React.FC = () => {
 
   return (
     <>
-      <div className="flex justify-start p-4 w-full sticky top-0 bg-white z-10 border-b">
-        <div className="max-w-xl w-full space-y-4">
-          <div className="flex justify-center items-center gap-4 flex-wrap">
-            <h1 className="text-2xl font-bold">Dntel Form</h1>
+      <div className="flex items-center justify-between px-6 py-3 border-b bg-white sticky top-0 z-50">
+        {/* Left: Title with Check Icon */}
+        <div className="flex items-center gap-2 text-green-700 font-semibold text-lg">
+          Dntel Form Demo
+        </div>
 
-            {!editMode ? (
+        {/* Right: Buttons */}
+        <div className="flex flex-wrap items-center gap-2">
+          {!editMode ? (
+            <button
+              className="px-4 py-1 border rounded text-sm hover:bg-gray-100 transition"
+              onClick={() => setEditMode(true)}
+            >
+              Edit
+            </button>
+          ) : (
+            <>
               <button
-                className="px-4 py-1 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
-                onClick={() => setEditMode(true)}
+                className={`px-4 py-1 text-sm text-white rounded transition ${
+                  Object.keys(changes).length === 0
+                    ? "bg-green-600 opacity-50 cursor-not-allowed"
+                    : "bg-green-600 hover:bg-green-700"
+                }`}
+                onClick={handleSave}
+                disabled={Object.keys(changes).length === 0}
               >
-                Edit
+                Save
               </button>
-            ) : (
-              <>
-                <button
-                  className={`px-4 py-1 text-white rounded transition ${
-                    Object.keys(changes).length === 0
-                      ? "bg-green-600 opacity-50 cursor-not-allowed"
-                      : "bg-green-600 hover:bg-green-700"
-                  }`}
-                  onClick={handleSave}
-                  disabled={Object.keys(changes).length === 0}
-                >
-                  Save
-                </button>
-                <button
-                  className="px-4 py-1 bg-gray-500 text-white rounded hover:bg-gray-600 transition"
-                  onClick={handleCancel}
-                >
-                  Cancel
-                </button>
-              </>
-            )}
+              <button
+                className="px-4 py-1 bg-gray-500 text-white text-sm rounded hover:bg-gray-600 transition"
+                onClick={handleCancel}
+              >
+                Cancel
+              </button>
+            </>
+          )}
 
-            <button
-              onClick={expandAll}
-              className="px-3 py-1 bg-teal-600 text-white rounded hover:bg-teal-700"
-            >
-              Expand All
-            </button>
-            <button
-              onClick={collapseAll}
-              className="px-3 py-1 bg-orange-600 text-white rounded hover:bg-orange-700"
-            >
-              Collapse All
-            </button>
-          </div>
-
-          <div className="flex gap-2 flex-wrap">
-            <button
-              onClick={reset}
-              disabled={Object.keys(changes).length === 0}
-              className={`px-3 py-1 rounded text-white ${
-                Object.keys(changes).length === 0
-                  ? "bg-red-300 cursor-not-allowed"
-                  : "bg-red-600 hover:bg-red-700"
-              }`}
-            >
-              Reset
-            </button>
-            <button
-              onClick={clearLS}
-              className="px-3 py-1 bg-yellow-600 text-white rounded hover:bg-yellow-700"
-            >
-              Clear LS
-            </button>
-            <button
-              onClick={() => scrollToSection("InsuranceInformation")}
-              className="px-3 py-1 bg-purple-600 text-white rounded hover:bg-purple-700"
-            >
-              Scroll to Section 2
-            </button>
-            <button
-              onClick={handleScrollToFirstChangedSection}
-              disabled={Object.keys(changes).length === 0}
-              className="px-3 py-1 bg-indigo-600 text-white rounded disabled:opacity-50 hover:bg-indigo-700"
-            >
-              Go to First Changed
-            </button>
-          </div>
-
-          <p className="text-sm text-muted-foreground">
-            Active Section: <span className="font-mono">{activeSection}</span>
-          </p>
+          <button
+            onClick={expandAll}
+            className="px-4 py-1 border rounded text-sm hover:bg-gray-100 transition"
+          >
+            Expand All
+          </button>
+          <button
+            onClick={collapseAll}
+            className="px-4 py-1 border rounded text-sm hover:bg-gray-100 transition"
+          >
+            Collapse All
+          </button>
+          <button
+            onClick={() => scrollToSection("InsuranceInformation")}
+            className="px-4 py-1 border rounded text-sm hover:bg-gray-100 transition"
+          >
+            Scroll to Section 3
+          </button>
+          <button
+            onClick={reset}
+            disabled={Object.keys(changes).length === 0}
+            className={`px-4 py-1 text-sm rounded text-white ${
+              Object.keys(changes).length === 0
+                ? "bg-red-300 cursor-not-allowed"
+                : "bg-red-600 hover:bg-red-700"
+            }`}
+          >
+            Reset
+          </button>
+          <button
+            onClick={clearLS}
+            className="px-4 py-1 bg-yellow-500 text-white text-sm rounded hover:bg-yellow-600 transition"
+          >
+            Clear LS
+          </button>
         </div>
       </div>
 
