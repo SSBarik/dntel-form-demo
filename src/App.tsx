@@ -57,7 +57,7 @@ const App: React.FC = () => {
               className="px-4 py-1 border rounded text-xs hover:bg-gray-100 transition shadow-sm"
               onClick={() => setEditMode(true)}
             >
-              Edit
+              Edit From
             </button>
           ) : (
             <>
